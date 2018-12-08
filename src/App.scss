@@ -1,0 +1,29 @@
+.App {
+  text-align: center;
+  min-height: 100vh;
+  background: url('assets/img/girls-backs.jpg');
+  background-size: cover;
+  background-position: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.App-logo {
+  height: 40vmin;
+}
+
+.welcome-message {
+  background: rgba(black, 0.8);
+  max-width: 600px;
+  margin: 2rem 1rem;
+  padding: 1rem;
+  color: white;
+}
+
+a,
+a:visited,
+a:hover {
+  color: #8bd6f3;
+}
